@@ -1,6 +1,6 @@
 # Introduction
 
-This is the final repository of group 8 for project of ECE1724-bio.
+This is the final repository of group 8 for project of ECE1724-bio, by Zile Wang and Tongyu Liu.
 
 # Requirments:
 python=3.6, tensorflow=2.4, pandas, numpy
