@@ -57,4 +57,4 @@ To run evaluation:
 
 # Reference
 
-Our code is based on [Advanced X Light](https://github.com/LiangZhang1996/Advanced_XLight)
+[Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight), [Efficient_XLight](https://github.com/LiangZhang1996/Efficient_XLight), [CoLight](https://github.com/wingsweihua/colight), [MPLight](https://github.com/Chacha-Chen/MPLight)
