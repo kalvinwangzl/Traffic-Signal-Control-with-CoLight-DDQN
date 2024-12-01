@@ -1,3 +1,7 @@
+# Introduction
+
+This is the final repository of group 8 for project of ECE1724-bio.
+
 # Requirments:
 python=3.6, tensorflow=2.4, pandas, numpy
 
@@ -57,4 +61,4 @@ To run evaluation:
 
 # Reference
 
-[Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight), [Efficient_XLight](https://github.com/LiangZhang1996/Efficient_XLight), [CoLight](https://github.com/wingsweihua/colight), [MPLight](https://github.com/Chacha-Chen/MPLight)
+ [CoLight](https://github.com/wingsweihua/colight), [MPLight](https://github.com/Chacha-Chen/MPLight), [Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight), [Efficient_XLight](https://github.com/LiangZhang1996/Efficient_XLight)
